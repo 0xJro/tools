@@ -1,8 +1,8 @@
 {
-  "name": "latest_sold",
+  "name": "tools",
   "version": "1.0.0",
   "private": true,
-  "description": "latest_sold",
+  "description": "tools",
   "author": "jro",
   "keywords": [
     "gatsby"
