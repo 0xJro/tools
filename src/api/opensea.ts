@@ -1,6 +1,6 @@
 import { GatsbyFunctionRequest, GatsbyFunctionResponse } from "gatsby";
-import { Headers } from 'node-fetch';
-import fetch from 'node-fetch';
+// import { Headers } from 'node-fetch';
+// import fetch from 'node-fetch';
 
 import { fakeData } from './fakeData';
 

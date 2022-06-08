@@ -1,4 +1,5 @@
 import React from 'react';
+import "../css/index.css";
 
 fetch('/api/opensea', {method: 'GET'})
   .then((response) => response.json())
@@ -8,8 +9,8 @@ fetch('/api/opensea', {method: 'GET'})
 
 const LatestSold = () => (
   <main>
-    <h1>Latest Sold</h1>
-    <p>
+    <h1 className="text-3xl font-bold underline">Latest Sold</h1>
+    <p className="text-3xl font-bold underline">
       hai
     </p>
   </main>
