@@ -2,7 +2,7 @@ import { GatsbyFunctionRequest, GatsbyFunctionResponse } from "gatsby";
 // import { Headers } from 'node-fetch';
 // import fetch from 'node-fetch';
 
-import { fakeData } from './fakeData';
+import fakeData from './fakeData';
 
 interface ContactBody {
   message: string
